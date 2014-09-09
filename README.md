@@ -15,7 +15,7 @@ For more details about **PubNub**: http://www.pubnub.com/
 
 
 
-## Installation
+## Installation Steps
 
 1. Create a **PubNub** account: http://www.pubnub.com/free-trial
 

@@ -8,6 +8,7 @@ body, input
 
 
 #header
+  background: none repeat scroll 0 0 #000000
   height: 50px
   box-shadow: 0px 2px 2px #aaa
   -webkit-box-shadow: 0px 2px 2px #aaa
@@ -26,7 +27,7 @@ body, input
     font-weight: bold
     float: left
     margin: 5px 0 0 90px
-    color: #666
+    color: #FFFFFF
     
 #content
   width: 640px
@@ -274,10 +275,10 @@ body, input
 
 .stream_section
   h2
-    border-bottom: 1px solid #006bc6
+    border-bottom: 1px solid #FF0000
     margin: 0
     padding: 0
-    color: #006bc6
+    color: #FF0000
     font-size: 18px
   .stream
     list-style: none
@@ -357,5 +358,5 @@ body, input
 
 
 .stream li:last-child 
-  display: none !important;
+  display: none !important
 
