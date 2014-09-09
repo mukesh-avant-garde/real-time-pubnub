@@ -181,7 +181,7 @@
                   = cl_image_upload_tag(:photo_id, :resource_type => :image,
                       :transformation => incoming_transformation, :eager => transformations.values + [large_transformation])
                   
-            %a{:href => "#", :class => "details_link"} How does it work?
+            /%a{:href => "#", :class => "details_link"} How does it work?
             
             -# Uploading progress bar
             .upload_progress
