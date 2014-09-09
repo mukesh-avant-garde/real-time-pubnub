@@ -232,7 +232,7 @@
              
         -# Container of the live share steam
         .stream_section
-          %h2 Live share stream
+          %h2 Real Time share photos
           %ul.stream
           
         
@@ -248,5 +248,5 @@
             %li Previously published messages are also displayed on page loading using PubNub's History support.
           %p
             Full sources are available on 
-            %a{:href => "https://github.com/cloudinary/cloudinary_pubnub_demo", :target => "_blank"} GitHub
+            %a{:href => "https://github.com/mukesh-avant-garde/real-time-pubnub", :target => "_blank"} GitHub
           %a{:href => "#", :class => "close"} Close   
