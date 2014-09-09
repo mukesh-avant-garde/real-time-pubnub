@@ -275,10 +275,12 @@ body, input
 
 .stream_section
   h2
-    border-bottom: 1px solid #FF0000
+    background: none repeat scroll 0 0 #000000;
     margin: 0
     padding: 0
-    color: #FF0000
+    color: #FFFFFF
+    border-radius: 5px
+    padding: 0 0 0 8px
     font-size: 18px
   .stream
     list-style: none
