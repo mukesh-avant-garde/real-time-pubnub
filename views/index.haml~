@@ -2,7 +2,7 @@
 %html{:xmlns => "http://www.w3.org/1999/xhtml", "xmlns:og" => "http://opengraphprotocol.org/schema/", "xmlns:fb" => "http://www.facebook.com/2008/fbml" }<
   %head
     %meta{:content => "text/html;charset=UTF-8", "http-equiv" => "Content-Type"}/
-    %title Real time Photo Share with PubNub 
+    %title Real time 1Photo Share with PubNub 
     %link{:href => "", :rel => "shortcut icon", :type => "image/png"}
     -# Including jQuery, a 'timeago' plugin, 4 files required by jQuery-File-Upload, Cloudinary's jQuery plugin and PubNub's Javascript library
     %script{:type => "text/javascript", :src => "/js/jquery.min.js"}
