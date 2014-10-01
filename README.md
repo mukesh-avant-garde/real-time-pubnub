@@ -1,4 +1,3 @@
-Mukesh
 Real Photo Sharing with PubNub & Cloudinary
 ======================================
 
